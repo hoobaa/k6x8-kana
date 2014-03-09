@@ -6,7 +6,7 @@ k6x8-kana
 ## 概要
 
 - 極小フォント「[k6x8](http://www.geocities.jp/littlimi/k6x8.htm)」を使い、128x128の画像内に英数字、平仮名、片仮名、記号をUnicode順で並べたもの
- - 固定幅フォント
+ - 文字は全て固定幅
  - 可読性は最低限
  - 存在を無視できるほどに小さい2の冪乗テクスチャ
  - 漢字抜きだけど日本語が使える
@@ -15,6 +15,8 @@ k6x8-kana
 - [ダウンロードはこちら](https://raw.github.com/nobutaka/k6x8-kana/master/k6x8-kana.png)
 
 ## 文字配置
+
+1文字6x8ドットで横21字配置です。
 
 ![mapping](mapping.png)
 
