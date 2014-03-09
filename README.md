@@ -15,3 +15,7 @@ k6x8-kana
 - [ダウンロードはこちら](https://raw.github.com/nobutaka/k6x8-kana/master/k6x8-kana.png)
 
 ## 文字配置
+
+![mapping](mapping.png)
+
+[misc.部分のUnicode](https://github.com/nobutaka/k6x8-kana/blob/47a51860ffefd411efd63951dbf97308b3981f8d/gentex.py#L19)
