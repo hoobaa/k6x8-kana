@@ -11,7 +11,7 @@ k6x8-kana
  - 存在を無視できるほどに小さい2の冪乗テクスチャ
  - 漢字抜きだけど日本語が使える
  - ASCIIコードおよびUnicodeからの文字位置計算が容易
-- [ライセンス](http://www.geocities.jp/littlimi/font.htm#license)はk6x8と同一とします。自由にお使いください
+- [ライセンス](http://www.geocities.jp/littlimi/font.htm#license)はk6x8と同一とします。商用でも自由に使えます
 - [ダウンロードはこちら](https://raw.github.com/nobutaka/k6x8-kana/master/k6x8-kana.png)
 
 ## 文字配置
